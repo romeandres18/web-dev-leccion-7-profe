@@ -1,3 +1,6 @@
-# Leccion 7
+# Leccion 7 Tarea
 
-Ejercicios de git
+Hagan un PR a este repositorio resolviendo el siguiente problema:
+
+1. 1 + 1
+2. dx/dy x^2
